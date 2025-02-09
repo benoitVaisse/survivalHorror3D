@@ -4,7 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/horror.unity
+    guid: ee9cf0409c4cc0d4dab50a2dca2a197e
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 4276f55efae594150a9381ed0a8a075c,
       type: 2}
+  m_UseUCBPForAssetBundles: 0
