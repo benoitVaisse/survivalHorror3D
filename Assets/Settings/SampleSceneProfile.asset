@@ -93,7 +93,7 @@ MonoBehaviour:
     m_Value: 2
   intensity:
     m_OverrideState: 1
-    m_Value: 0.172
+    m_Value: 0.111
   response:
     m_OverrideState: 0
     m_Value: 0.8
@@ -195,7 +195,7 @@ MonoBehaviour:
     m_Value: 5.6
   focalLength:
     m_OverrideState: 1
-    m_Value: 38
+    m_Value: 33
   bladeCount:
     m_OverrideState: 0
     m_Value: 5
