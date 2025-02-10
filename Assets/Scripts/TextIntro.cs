@@ -29,6 +29,7 @@ namespace survival_horror.Assets.Scripts
                 final += c;
                 yield return new WaitForSeconds(0.1f);
                 textMeshPro.SetText(final);
+
             }
         }
 
